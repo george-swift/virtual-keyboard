@@ -1,9 +1,11 @@
 # Virtual Keyboard
-
+[Click here to play](https://virtual-keyboard-ts.netlify.app/)
 ## Objectives
-- Using higher-order components in React
 - Design patterns in React TypeScript apps
 - Using third-party APIs
+
+## Features
+> A virtual piano keyboard with a list of instruments for selecting different sounds. Designed for screens larger than 1000px and above.
 
 ## Built With
 - React
@@ -21,9 +23,6 @@
 - To terminate the server, enter `Ctrl + C` in your terminal.
 - To get a production bundle, run `npm run build`
 
-## Testing
-Run `npm test` to get a verbose test report.
-
 ## Authors
 
 👤 &nbsp; **Ubong George**
@@ -35,6 +34,7 @@ Run `npm test` to get a verbose test report.
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/)
+- [Fullstack React with TypeScript](https://newline.co/discord/)
 
 ## Show your support
 
