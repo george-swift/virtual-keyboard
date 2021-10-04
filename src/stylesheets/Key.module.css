@@ -50,3 +50,15 @@
   color: rgba(255, 255, 255, 0.4);
   background-color: #111;
 }
+
+@media screen and (max-width: 1366px) {
+  .natural {
+    width: calc(var(--white-key-width) / 1.15);
+    margin-right: 0;
+  }
+
+  .sharp {
+    width: calc(var(--black-key-width) / 1.25);
+    margin: 0 calc(-0.5 * calc(var(--black-key-width) / 1.25));
+  }
+}
